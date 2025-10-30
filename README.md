@@ -40,3 +40,36 @@ Vue → cd vue && npm run dev
 
 Twig → serve with MAMP or Render at http://localhost:8888/ticketflow-twig
 
+UI Components
+Component	Description
+LandingView.vue	Welcome & feature overview
+LoginView.vue	Login page
+SignupView.vue	Signup form
+DashboardView.vue	Main ticket dashboard
+TicketsView.vue	Ticket management
+Header/Footer.vue	Shared layout
+Toast.vue	Feedback messages
+ State Example
+{
+  mock_user: { email, password },
+  ticketapp_session: "mock_token_123"
+}
+
+♿ Accessibility
+
+All form fields labeled
+
+Focus styles and ARIA attributes
+
+Responsive & keyboard friendly
+
+ Test User Credentials
+Email: admin@test.com
+Password: password
+
+ Known Issues
+
+Mock-only login (no API)
+
+LocalStorage resets clear data
+

@@ -14,7 +14,7 @@ It mirrors the Vue and Twig versions for consistent design and logic.
 
 ---
 ## Live Demo
-* ticketweb-project.netlify.app *
+  *ticketweb-project.netlify.app*
 
 ##  Setup Instructions
 
@@ -74,5 +74,6 @@ Password: password
 Mock-only login (no API)
 
 LocalStorage resets clear data
+
 
 

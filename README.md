@@ -1,7 +1,5 @@
 # TicketFlow — React Version
-
-TicketFlow is a clean and lightweight ticket management UI built in **React** with mock authentication and simple state management.  
----
+A clean ticket management  UI built in React wit mock authentication and simple state management.
 
 ## Features
 * Mock Authentication System – Login/signup with LocalStorage persistence.
@@ -66,6 +64,7 @@ npm run dev
 
 ## License
 MIT License – See LICENSE file for details.
+
 
 
 

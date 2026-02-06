@@ -36,6 +36,10 @@ npm run dev
 ```
 ### 4. Visit the application at http://localhost:5173 (or your configured port)
 
+### Switching between Framework Versions
+* React: cd react && npm run dev
+* Vue: cd vue && npm run dev
+
 ## Core Components
 
 | Component | Description |
@@ -61,9 +65,12 @@ npm run dev
 
 ## Project Goal
 * Provide a clean, accessible interface for ticket management concepts
+* Enable easy comparison between React, and Vue approaches
+* Demonstrate consistent UI/UX across different frontend frameworks
 
 ## License
 MIT License – See LICENSE file for details.
+
 
 
 

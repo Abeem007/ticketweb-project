@@ -36,7 +36,7 @@ npm run dev
 ```
 ### 4. Visit the application at http://localhost:5173 (or your configured port)
 
-### Switching between Framework Versions
+## Switching between Framework Versions
 * React: cd react && npm run dev
 * Vue: cd vue && npm run dev
 
@@ -70,6 +70,7 @@ npm run dev
 
 ## License
 MIT License – See LICENSE file for details.
+
 
 
 
